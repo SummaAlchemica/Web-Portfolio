@@ -1,0 +1,23 @@
+{
+  "name": "web-portfolio-mean-stack",
+  "version": "1.0.0",
+  "description": "Web portfolio for Ryan Cotter",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SummaAlchemica/Web-Portfolio.git"
+  },
+  "keywords": [
+    "Web",
+    "Portfolio"
+  ],
+  "author": "Ryan Cotter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SummaAlchemica/Web-Portfolio/issues"
+  },
+  "homepage": "https://github.com/SummaAlchemica/Web-Portfolio#readme"
+}
